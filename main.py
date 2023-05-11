@@ -1,0 +1,2 @@
+from ejercicios import *
+main()
